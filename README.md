@@ -1,5 +1,9 @@
 # Project 1 Setup
 
+Prerequisites:
+Anaconda
+Python3
+
 #### Clone the repository, and navigate to the project folder.
 ```bash
 git clone https://github.com/lauren123cat/UCLA-ECE219-W25.git
