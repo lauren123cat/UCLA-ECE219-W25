@@ -1,8 +1,7 @@
 # Project 1 Setup
 
 Prerequisites:
-Anaconda
-Python3
+Anaconda and Python3
 
 #### Clone the repository, and navigate to the project folder.
 ```bash
